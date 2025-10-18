@@ -340,3 +340,5 @@ installing them. `click-align` (see `doc/click-align.1`) figures out what
 alignment is required and adds elements as necessary to make that alignment
 happen. It also adds an `AlignmentInfo` element to tell every element what
 kind of alignment it can expect.
+
+<!-- Auto-update: 2025-10-18T13:14:21.052297 -->
